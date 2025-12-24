@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I’m Nithin 👋
 
-<!--
-**Nithin120/Nithin120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity student  
+🔐 Building hands-on security labs and projects  
+🧠 Exploring different areas of cybersecurity
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I’m a cybersecurity student focused on developing practical skills through hands-on projects and labs.  
+I’m currently exploring multiple areas of cybersecurity, including system security, network analysis, and security awareness, to build a strong foundation before choosing a specialization.
+
+---
+
+## What I’m Working On
+- Security awareness and risk analysis projects  
+- Virtualized home lab environments for security testing  
+- Linux system hardening and access control configuration  
+- Network traffic analysis and basic threat identification  
+- Documentation of findings, risks, and mitigations  
+
+---
+
+## Tools & Technologies
+- Linux
+- Git and GitHub  
+- Virtualization (VirtualBox, VMware)  
+- Networking fundamentals (TCP/IP, DNS, HTTP/S)
+  
+---
+
+## Goals
+- Build a strong cybersecurity project portfolio  
+- Gain hands-on experience alongside academic learning  
+- Identify a long-term focus area within cybersecurity  
+
+---
+
+📌 This profile is a work in progress as I continue learning and building.
