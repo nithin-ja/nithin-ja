@@ -1,4 +1,4 @@
-# Hi, I’m Nithin 👋
+# Hey, I’m Nithin JA👋
 
 🎓 Cybersecurity student  
 🔐 Building hands-on security labs and projects  
